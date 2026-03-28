@@ -13,13 +13,14 @@ This project involves:
   4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for sctionable insights.
 
  ==>> This repository is a excellent resource for proffesionals andstudents looking to showcase expertise in:
-         **SQL Development**
-         **data Architect**
-         **Data Engineering**
-         **ETL Pipeline Developer**
-         **Data Modeling**
-         **Data Analytics**
-      
+  1. **SQL Development**
+  2. **data Architect**
+  3. **Data Engineering**
+  4. **Data Modeling**
+  5. **Data Modeling**
+  6. **ETL Pipeline Developer**
+  7. **Data Analytics** 
+         
 ##  Project Requirements
 
 ### Building The Data Warehouse (Data Engineering)
