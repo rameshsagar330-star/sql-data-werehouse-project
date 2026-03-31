@@ -20,7 +20,11 @@ This project involves:
   5. **Data Modeling**
   6. **ETL Pipeline Developer**
   7. **Data Analytics** 
-         
+
+## Data Architecture
+<img width="766" height="540" alt="DDA" src="https://github.com/user-attachments/assets/1b7ed3c7-5fb3-4043-91e4-8262cce07ad0" />
+
+
 ##  Project Requirements
 
 ### Building The Data Warehouse (Data Engineering)
