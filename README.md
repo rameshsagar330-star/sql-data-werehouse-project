@@ -59,8 +59,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
 ## About Me
 My Name is T RAMESH I am from Hyderabad, India. I am an aspiring data analyst with practical knowledge of SQL. This project showcases my ability to handle data, perform analysis and generate insights effectively.
 Conect with me on 
-[LinkedIn](https://www.linkedin.com/in/thaveli-ramesh-b635b2195/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3VNvtQoSSkiQXpCDjeaVRQ%3D%3D
-)
+**[LinkedIn](linkedin.com/in/thaveli-ramesh-b635b2195)**
+**[Gmail](rameshsagar.330@gmail.com)**
 
 
 
