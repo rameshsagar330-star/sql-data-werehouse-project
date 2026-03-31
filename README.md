@@ -41,9 +41,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
 
   ---
 
-  ### BI: Analytics & Reporting (data Analytics)
+### BI: Analytics & Reporting (data Analytics)
 
-  ### Objective
+### Objective
   Develop SQL-Sbased analytics to deliver detailed insights into:
   **Customer Behavior**
   **Product Performance**
@@ -53,7 +53,15 @@ Develop a modern data warehouse using SQL Server to consolidate sales date, enab
 
   ---
 
-  ## License
+## License
   This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution.
+
+## About Me
+My Name is T RAMESH I am from Hyderabad, India. I am an aspiring data analyst with practical knowledge of SQL. This project showcases my ability to handle data, perform analysis and generate insights effectively.
+Conect with me on 
+[LinkedIn](https://www.linkedin.com/in/thaveli-ramesh-b635b2195/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3VNvtQoSSkiQXpCDjeaVRQ%3D%3D
+)
+
+
 
   
